@@ -1,2 +1,2 @@
 # cv-caitlindavis
-Repository of lab files
+Repository for CV 
