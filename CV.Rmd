@@ -1,5 +1,5 @@
 ---
-title: "*Curriculum vitae* <br> **Caitlin M Davis**"
+title: "*Curriculm vitae* <br> **Caitlin M Davis**"
 output: html_document
 ---
 ___
@@ -15,13 +15,13 @@ h1, h2, h3 {
 }
 ```
 
-### Education
+### Eduaction
 
 <center> BA Biology, Goucher College  <br> 
 MS Raptor Biology, Boise State University </center>
 
 
-### Publications
+### Publicatios
 
 **Davis, C. M.**, J.A. Heath. 2022. Treatment of nest parasites as a  mitigation option for eagle take permits. *Manuscript in prep*. 
 <br>
@@ -34,7 +34,7 @@ MS Raptor Biology, Boise State University </center>
 Robinson, B. W. and **C. M. Davis**. 2014. A Communal Roosting of the Great Horned Owl- Bubo virginianus. Journal of Raptor Research 48(1): 88-89 
 
 
-### Employment
+### Employmant
 **2019**- Present; Research Associate, Golden Eagle Project Manager, Boise State University, ID <br> 
 **2016- 2019**; Graduate Teaching Assistant, Boise State University, ID <br> 
 **2014- 2019**; Raptor Research Technician, Boise State University, ID <br> 
