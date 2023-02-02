@@ -22,11 +22,7 @@ shrub-steppe ecosystem. *Manuscript in review*. <br> **Davis, C. M.**,
 J.A. Heath. 2019. Recreation, fire and disease create a mosaic of
 threats for golden eagles in southwestern Idaho. M.Sc. Thesis. Boise
 State University. Boise, ID, USA. <br> **Davis, C. M.**, J. A. Heath,
-and C. J. W. McClure. 2017. Nest box use by American Kestrels and other
-cavity-nesting birds during the nonbreeding season. Avian Conservation
-and Ecology. 12(2):5 <br> Robinson, B. W. and **C. M. Davis**. 2014. A
-Communal Roosting of the Great Horned Owl- Bubo virginianus. Journal of
-Raptor Research 48(1): 88-89
+and C. J. W. McClure. 2017. Nest box use by American Kestrels and other cavity-nesting birds during the nonbreeding season. Avian Conservation and Ecology. 12(2):5 <br> Robinson, B. W. and **C. M. Davis**. 2014. A Communal Roosting of the Great Horned Owl- *Bubo virginianus*. Journal of Raptor Research 48(1): 88-89
 
 ### Employment
 
@@ -40,13 +36,7 @@ Mountain, AK <br> **2014- 2015**; Site Coordinator & Lead Bander,
 HawkWatch Int., Goshute Mountains, NV <br> **2012- 2013**; Raptor
 Migration Technician, HawkWatch Int., Goshute Mountains, NV <br>
 **2013**; Avian Research Technician, Wildlife Conservation Society,
-Prudhoe Bay, AK <br> **2013**; Quail Research Technician, Rolling Plains
-Quail Research Ranch, Roby, TX <br> **2012**; Spotted Owl Research
-Technician, University of Wisconsin- Madison, Eldorado National Forest,
-CA <br> **2011- 2012**; Waterfowl Research Technician, University of
-Delaware, Coastal DE <br> **2011**; Sage-grouse Research Technician,
-Colorado Division of Wildlife, Gunnison, CO <br> **2010**; Antbird Lab
-Technician, Smithsonian Tropical Research Institute, Gamboa, Panama <br>
+Prudhoe Bay, AK <br> **2013**; Quail Research Technician, Rolling Plains Quail Research Ranch, Roby, TX <br> **2012**; Spotted Owl Research Technician, University of Wisconsin- Madison, Eldorado National Forest, CA <br> **2011- 2012**; Waterfowl Research Technician, University of Delaware, Coastal DE <br> **2011**; Sage-grouse Research Technician, Colorado Division of Wildlife, Gunnison, CO <br> **2010**; Antbird Lab Technician, Smithsonian Tropical Research Institute, Gamboa, Panama <br>
 
 ### Teaching
 
