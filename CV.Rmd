@@ -1,7 +1,9 @@
 ---
 title: "*Curriculum vitae* <br> **Caitlin M Davis**"
-output: github_document
+output: html_document
 ---
+___
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -15,13 +17,13 @@ h1, h2, h3 {
 
 ### Education
 
-BA Biology, Goucher College  <br> 
-MS Raptor Biology, Boise State University
+<center> BA Biology, Goucher College  <br> 
+MS Raptor Biology, Boise State University </center>
 
 
 ### Publications
 
-**Davis, C. M.**, J.A. Heath. 2022. Treatment of nest parasites as a mitigation option for eagle take permits. *Manuscript in prep*. 
+**Davis, C. M.**, J.A. Heath. 2022. Treatment of nest parasites as a  mitigation option for eagle take permits. *Manuscript in prep*. 
 <br>
 **Davis, C. M.**, R. Spaul, J.A. Heath. 2022. Recreation, fire, and disease create a mosaic of threats for an apex predator in a shrub-steppe ecosystem. *Manuscript in review*. 
 <br>
