@@ -1,6 +1,12 @@
 *Curriculum vitae* <br> **Caitlin M Davis**
 ================
 
+<style type="text/css">
+h1, h2, h3 {
+  text-align: center;
+}
+</style>
+
 ### Education
 
 BA Biology, Goucher College <br> MS Raptor Biology, Boise State
@@ -20,7 +26,7 @@ and C. J. W. McClure. 2017. Nest box use by American Kestrels and other
 cavity-nesting birds during the nonbreeding season. Avian Conservation
 and Ecology. 12(2):5 <br> Robinson, B. W. and **C. M. Davis**. 2014. A
 Communal Roosting of the Great Horned Owl- Bubo virginianus. Journal of
-Raptor Research 48(1): 88-89 <br>
+Raptor Research 48(1): 88-89
 
 ### Employment
 
@@ -47,3 +53,9 @@ Technician, Smithsonian Tropical Research Institute, Gamboa, Panama <br>
 **2022** Raptor Research Foundation Annual Conference workshop
 instructor: Advanced Molt & Aging in Raptors <br> **2016- 2019**
 Laboratory instructor: Human Anatomy and Physiology I & II
+
+------------------------------------------------------------------------
+
+<br>
+
+![](https://d25vtythmttl3o.cloudfront.net/uploads/sites/255/2019/04/BoiseState_16_17_171Caitlin-Davis.jpg)
